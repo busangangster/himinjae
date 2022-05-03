@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "910772082189",
+    "project_id": "motive-fc7c8",
+    "storage_bucket": "motive-fc7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910772082189:android:3d35a1471cb49a3d592744",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910772082189-gkp404h0otuknlkku66q3887tk826muj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDwOhB66vGiuu44yk9N7eingiicgwV-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910772082189-gkp404h0otuknlkku66q3887tk826muj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910772082189-u7fcg7curl2875jtfn2kpp3esdinio72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.motive.motive"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910772082189:android:99434c603847e2f1592744",
+        "android_client_info": {
+          "package_name": "com.motive.motive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910772082189-gkp404h0otuknlkku66q3887tk826muj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPDwOhB66vGiuu44yk9N7eingiicgwV-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910772082189-gkp404h0otuknlkku66q3887tk826muj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910772082189-u7fcg7curl2875jtfn2kpp3esdinio72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.motive.motive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
